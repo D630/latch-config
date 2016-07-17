@@ -2,7 +2,7 @@
 
 system_context ()
 {
-        useId="0"
+        useIds="0:0"
         STOW_DIR="/usr/local/stow"
         STOW_TARGET="/"
         myXstowConfig="${myRoot}/etc/xstow/system.ini"
