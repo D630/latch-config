@@ -1,6 +1,6 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
-myUser="user1"
-myIds="1000:1000"
+myUser=user1;
+myIds=1000:1000;
 
-# vim: set ts=8 sw=8 tw=0 et :
+# vim: set ft=sh :
