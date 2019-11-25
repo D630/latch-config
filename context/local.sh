@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# shellcheck disable=SC2034 disable=SC2154
+
 local_context ()
 {
 	useIds=1000:1000;

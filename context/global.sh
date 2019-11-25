@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# shellcheck disable=SC2034 disable=SC2154
+
 global_context ()
 {
 	useIds=0:50;
